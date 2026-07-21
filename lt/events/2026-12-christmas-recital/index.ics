@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Eleny Piano Studio//Events//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:356f1a1048367233be84709f215fc05d@elenypiano.studio
+DTSTAMP:20260722T001650Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Kalėdinis fortepijono rečitalis
+LOCATION:Eleny Piano Studio, Kėdainių g. 8, Vilnius
+DESCRIPTION:Sezoninis rečitalis mokiniams, į kurį kviečiami tėvai ir artimieji.
+END:VEVENT
+END:VCALENDAR

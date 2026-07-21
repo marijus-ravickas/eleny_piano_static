@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Eleny Piano Studio//Events//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:4f97f9450ad53565db557229fc9064c8@elenypiano.studio
+DTSTAMP:20260722T001650Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Pavasario fortepijono rečitaliai
+LOCATION:Eleny Piano Studio, Kėdainių g. 8, Vilnius
+DESCRIPTION:Sezoniniai rečitaliai mokiniams, į kuriuos kviečiami tėvai ir artimieji.
+END:VEVENT
+END:VCALENDAR

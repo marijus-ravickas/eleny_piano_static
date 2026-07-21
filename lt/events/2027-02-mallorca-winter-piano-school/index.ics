@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Eleny Piano Studio//Events//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:140611acaaf3bb65399e81ff6224b3d7@elenypiano.studio
+DTSTAMP:20260722T001650Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Žiemos fortepijono mokykla Maljorkoje
+LOCATION:Maljorka, Ispanija
+DESCRIPTION:Išvykstamoji žiemos fortepijono stovykla mokiniams, kviečiamiesiems dalyviams — visa informacija tiesiogiai perduodama dalyvaujančioms šeimoms. Norėdami patekti į laukiančiųjų sąrašą, <a href="/lt/contact/#contact-details">susisiekite su mumis</a>.
+END:VEVENT
+END:VCALENDAR
