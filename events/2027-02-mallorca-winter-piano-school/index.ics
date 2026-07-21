@@ -4,11 +4,11 @@ PRODID:-//Eleny Piano Studio//Events//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:b7eeefc65bbb22d520a6a78b2dd444f6@elenypiano.studio
-DTSTAMP:20260721T183741Z
+DTSTAMP:20260721T221641Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:Mallorca Winter Piano School
 LOCATION:Mallorca, Spain
-DESCRIPTION:An off-site winter piano intensive for students, open by invitation — full details are shared directly with participating families.
+DESCRIPTION:An off-site winter piano intensive for students, open by invitation — full details are shared directly with participating families. Feel free to <a href="/contact/#contact-details">contact us</a> to join the waiting list.
 END:VEVENT
 END:VCALENDAR
