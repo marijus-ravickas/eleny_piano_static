@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Eleny Piano Studio//Events//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:b4314f6b5624937c47cff8b8ada2dfb4@elenypiano.studio
+DTSTAMP:20260721T183741Z
+DTSTART:20270428T160000Z
+DTEND:20270428T170000Z
+SUMMARY:Performance Practice Concert
+LOCATION:Eleny Piano Studio, Kėdainių str. 8, Vilnius
+DESCRIPTION:A relaxed chance for students to practice performing in front of a small audience of peers and parents.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Eleny Piano Studio//Events//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:07bd3c161335d6808815eb7bbbbbd330@elenypiano.studio
+DTSTAMP:20260721T183741Z
+DTSTART:20260914T150000Z
+DTEND:20260914T160000Z
+SUMMARY:Welcome Meeting & Studio Opening Concert
+LOCATION:Eleny Piano Studio, Kėdainių str. 8, Vilnius
+DESCRIPTION:Official start of the 2026–2027 academic year — a welcome meeting for families followed by the studio's opening concert.
+END:VEVENT
+END:VCALENDAR

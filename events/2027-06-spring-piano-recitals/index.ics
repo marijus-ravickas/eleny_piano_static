@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Eleny Piano Studio//Events//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:1caba6d004c305b75f113fadc6e0fa53@elenypiano.studio
+DTSTAMP:20260721T183741Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:Spring Piano Recitals
+LOCATION:Eleny Piano Studio, Kėdainių str. 8, Vilnius
+DESCRIPTION:Seasonal recitals for students, with parents and extended family invited to attend.
+END:VEVENT
+END:VCALENDAR

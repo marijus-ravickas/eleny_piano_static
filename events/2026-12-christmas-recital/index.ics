@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Eleny Piano Studio//Events//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:11fc3c5370edd155c000b96aeefd9402@elenypiano.studio
+DTSTAMP:20260721T183741Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Christmas Piano Recital
+LOCATION:Eleny Piano Studio, Kėdainių str. 8, Vilnius
+DESCRIPTION:A seasonal recital for students, with parents and extended family invited to attend.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Eleny Piano Studio//Events//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:33f4a74e262f67558f2f538819aa5a11@elenypiano.studio
+DTSTAMP:20260721T183741Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Guest Teacher Masterclass
+LOCATION:Eleny Piano Studio, Kėdainių str. 8, Vilnius
+DESCRIPTION:A masterclass with a visiting guest teacher — exact date to follow.
+END:VEVENT
+END:VCALENDAR
