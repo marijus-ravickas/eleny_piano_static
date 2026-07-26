@@ -4,11 +4,11 @@ PRODID:-//Eleny Piano Studio//Events//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:140611acaaf3bb65399e81ff6224b3d7@elenypiano.studio
-DTSTAMP:20260726T155401Z
+DTSTAMP:20260726T155507Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:Žiemos muzikos savaitė Maljorkoje su fortepijono pamokomis ir kūrybine patirtimi
 LOCATION:Maljorka, Ispanija
-DESCRIPTION:Išvykstamoji žiemos fortepijono stovykla mokiniams, kviečiamiesiems dalyviams — visa informacija tiesiogiai perduodama dalyvaujančioms šeimoms. Norėdami patekti į laukiančiųjų sąrašą, <a href="/lt/contact/#contact-details">susisiekite su mumis</a>.
+DESCRIPTION:Išvykstamoji žiemos fortepijono stovykla mokiniams ir kviestiniams dalyviams. Visa išsami informacija perduodama tiesiogiai dalyvaujančioms šeimoms. Norėdami patekti į laukiančiųjų sąrašą, <a href="/lt/contact/#contact-details">susisiekite su mumis</a>.
 END:VEVENT
 END:VCALENDAR
