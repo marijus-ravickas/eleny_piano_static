@@ -4,10 +4,10 @@ PRODID:-//Eleny Piano Studio//Events//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:c029456de6ef9268a2d5810696588d6c@elenypiano.studio
-DTSTAMP:20260726T155139Z
+DTSTAMP:20260726T155401Z
 DTSTART;VALUE=DATE:20270705
 DTEND;VALUE=DATE:20270706
-SUMMARY:Vasaros fortepijono mokykla Vienoje
+SUMMARY:Vasaros fortepijono kelionė į Vieną – muzikinė, edukacinė ir kultūrinė patirtis
 LOCATION:Viena, Austrija
 DESCRIPTION:Išvykstamoji vasaros fortepijono stovykla mokiniams ir kviestiniams dalyviams. Visa išsami informacija perduodama tiesiogiai dalyvaujančioms šeimoms. Norėdami patekti į laukiančiųjų sąrašą, <a href="/lt/contact/#contact-details">susisiekite su mumis</a>.
 END:VEVENT
