@@ -4,10 +4,10 @@ PRODID:-//Eleny Piano Studio//Events//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:4f5af410a4d69b1b758e5dc0109d597b@elenypiano.studio
-DTSTAMP:20260722T174043Z
+DTSTAMP:20260726T152322Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Kviestinio mokytojo meistriškumo kursai
+SUMMARY:Meistriškumo kursai su kviestiniais muzikos pedagogais
 LOCATION:Eleny Piano Studio, Kėdainių g. 8, Vilnius
 DESCRIPTION:Meistriškumo kursai su atvykstančiu kviestiniu mokytoju — tiksli data bus paskelbta vėliau.
 END:VEVENT

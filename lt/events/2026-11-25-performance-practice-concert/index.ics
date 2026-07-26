@@ -4,11 +4,11 @@ PRODID:-//Eleny Piano Studio//Events//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:be8a59542f20bb915f171e5133229a21@elenypiano.studio
-DTSTAMP:20260722T174043Z
+DTSTAMP:20260726T152322Z
 DTSTART:20261125T170000Z
 DTEND:20261125T180000Z
 SUMMARY:Scenos praktikos koncertas
 LOCATION:Eleny Piano Studio, Kėdainių g. 8, Vilnius
-DESCRIPTION:Atpalaiduojanti proga mokiniams pasipraktikuoti scenoje prieš nedidelę bendraamžių ir tėvų auditoriją.
+DESCRIPTION:Jauki ir palaikanti proga mokiniams įgyti sceninės patirties bei pasipraktikuoti atliekant kūrinius nedidelei bendraamžių ir tėvų auditorijai.
 END:VEVENT
 END:VCALENDAR
