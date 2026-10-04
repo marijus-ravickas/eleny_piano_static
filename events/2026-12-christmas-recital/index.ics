@@ -2,13 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eleny Piano Studio//Events//EN
 CALSCALE:GREGORIAN
+METHOD:PUBLISH
 BEGIN:VEVENT
 UID:11fc3c5370edd155c000b96aeefd9402@elenypiano.studio
-DTSTAMP:20261004T092455Z
+DTSTAMP:20261004T063142Z
+LAST-MODIFIED:20261004T062451Z
+SEQUENCE:1791095091
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:Christmas Piano Recital
-LOCATION:Lithuanian Academy of Music and Theatre (LMTA), Grand Hall, Gedimino pr. 42, Vilnius
-DESCRIPTION:A seasonal recital for students, with parents and extended family invited to attend.
+LOCATION:Lithuanian Academy of Music and Theatre (LMTA)\, Grand Hall\, Gedimino pr. 42\, Vilnius
+DESCRIPTION:A seasonal recital for students\, with parents and extended family invited to attend.\n\nhttps://elenypiano.studio/events/2026-12-christmas-recital/
+URL:https://elenypiano.studio/events/2026-12-christmas-recital/
 END:VEVENT
 END:VCALENDAR

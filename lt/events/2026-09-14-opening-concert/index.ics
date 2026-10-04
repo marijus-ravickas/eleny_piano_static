@@ -2,13 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eleny Piano Studio//Events//EN
 CALSCALE:GREGORIAN
+METHOD:PUBLISH
 BEGIN:VEVENT
 UID:788d89e0623c945d135ed57292e2f303@elenypiano.studio
-DTSTAMP:20261004T092456Z
+DTSTAMP:20261004T063143Z
+LAST-MODIFIED:20260726T122300Z
+SEQUENCE:1785068580
 DTSTART:20260914T153000Z
-DTEND:20260914T163000Z
+DTEND:20260914T170000Z
 SUMMARY:Susipažinimo vakaras ir studijos atidarymo koncertas
-LOCATION:Eleny Piano Studio, Kėdainių g. 8, Vilnius
-DESCRIPTION:Oficialus 2026–2027 mokslo metų atidarymas – atviras renginys visai studijos bendruomenei. Tai jaukus susipažinimo vakaras su užkandžiais, mokytojų koncertu bei galimybe naujoms ir esamoms šeimoms susitikti, pabendrauti ir tapti studijos bendruomenės dalimi.
+LOCATION:Eleny Piano Studio\, Kėdainių g. 8\, Vilnius
+DESCRIPTION:Oficialus 2026–2027 mokslo metų atidarymas – atviras renginys visai studijos bendruomenei. Tai jaukus susipažinimo vakaras su užkandžiais\, mokytojų koncertu bei galimybe naujoms ir esamoms šeimoms susitikti\, pabendrauti ir tapti studijos bendruomenės dalimi.\n\nhttps://elenypiano.studio/lt/events/2026-09-14-opening-concert/
+URL:https://elenypiano.studio/lt/events/2026-09-14-opening-concert/
 END:VEVENT
 END:VCALENDAR

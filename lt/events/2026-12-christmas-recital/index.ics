@@ -2,13 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Eleny Piano Studio//Events//EN
 CALSCALE:GREGORIAN
+METHOD:PUBLISH
 BEGIN:VEVENT
 UID:356f1a1048367233be84709f215fc05d@elenypiano.studio
-DTSTAMP:20261004T092456Z
+DTSTAMP:20261004T063143Z
+LAST-MODIFIED:20261004T062451Z
+SEQUENCE:1791095091
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:Kalėdinis fortepijono rečitalis
-LOCATION:Lietuvos muzikos ir teatro akademija (LMTA), Didžioji salė, Gedimino pr. 42, Vilnius
-DESCRIPTION:Sezoninis rečitalis mokiniams, į kurį kviečiami tėvai ir artimieji.
+LOCATION:Lietuvos muzikos ir teatro akademija (LMTA)\, Didžioji salė\, Gedimino pr. 42\, Vilnius
+DESCRIPTION:Sezoninis rečitalis mokiniams\, į kurį kviečiami tėvai ir artimieji.\n\nhttps://elenypiano.studio/lt/events/2026-12-christmas-recital/
+URL:https://elenypiano.studio/lt/events/2026-12-christmas-recital/
 END:VEVENT
 END:VCALENDAR
