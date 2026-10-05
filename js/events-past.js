@@ -3,6 +3,7 @@
 // - events list: move them from the upcoming list into the collapsed
 //   "Past events" block, newest first
 // - single event page: hide the call-to-action button
+// - event thank-you page: short "also coming up" list, past rows dropped
 (function () {
   var now = Date.now();
   function isOver(el) {
@@ -15,7 +16,24 @@
 
   var upcoming = document.getElementById("events-upcoming");
   var past = document.getElementById("events-past");
-  if (!upcoming || !past) return;
+  if (!upcoming) return;
+
+  // Short list with no Past block (event thank-you page): drop past rows,
+  // keep the first data-limit, hide the whole section if none are left.
+  if (!past) {
+    var limit = parseInt(upcoming.getAttribute("data-limit"), 10) || Infinity;
+    var shown = 0;
+    upcoming.querySelectorAll(".event-row[data-end]").forEach(function (row) {
+      if (isOver(row) || shown >= limit) row.remove(); else shown++;
+    });
+    if (!shown) {
+      var heading = upcoming.previousElementSibling;
+      if (heading && heading.tagName === "H2") heading.hidden = true;
+      upcoming.hidden = true;
+    }
+    return;
+  }
+
   var pastList = past.querySelector(".event-list");
   var rows = upcoming.querySelectorAll(".event-row[data-end]");
   // Rows are oldest-first; walk backwards so the past list ends up newest-first.
