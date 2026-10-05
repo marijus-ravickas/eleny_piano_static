@@ -5,14 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:7ed87f5c7e925d59151953c846114339@elenypiano.studio
-DTSTAMP:20261004T070212Z
-LAST-MODIFIED:20261004T070212Z
-SEQUENCE:1791097332
+DTSTAMP:20261005T193923Z
+LAST-MODIFIED:20261005T193922Z
+SEQUENCE:1791229162
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261123
 SUMMARY:Prof. Arvindan Thekkadath meistriškumo kursai
 LOCATION:Eleny Piano Studio\, Kėdainių g. 8\, Vilnius
-DESCRIPTION:Dviejų dienų renginys su prof. Arvindan Thekkadath — meistriškumo kursai\, paskaita ir koncertas. Registracijos terminas — 2026 m. lapkričio 10 d. Norėdami užsiregistruoti\, susisiekite su mumis.\n\nhttps://elenypiano.studio/lt/events/2026-11-21-thekkadath-masterclass/
+DESCRIPTION:Dviejų dienų renginys su prof. Arvindan Thekkadath — meistriškumo kursai\, paskaita ir koncertas. Registracijos terminas — 2026 m. lapkričio 10 d.\n\nRegistracija ir bilietai: https://qgo.lt/ms1\n\nhttps://elenypiano.studio/lt/events/2026-11-21-thekkadath-masterclass/
 URL:https://elenypiano.studio/lt/events/2026-11-21-thekkadath-masterclass/
 END:VEVENT
 END:VCALENDAR
