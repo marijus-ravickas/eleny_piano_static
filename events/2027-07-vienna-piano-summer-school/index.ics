@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:b764768c4891fefcfe1b405d45dccfcd@elenypiano.studio
-DTSTAMP:20261005T195841Z
-LAST-MODIFIED:20261005T195441Z
-SEQUENCE:1791230081
+DTSTAMP:20261005T200144Z
+LAST-MODIFIED:20261005T200144Z
+SEQUENCE:1791230504
 DTSTART;VALUE=DATE:20270705
-DTEND;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270711
 SUMMARY:Vienna Piano Summer School
 LOCATION:Vienna\, Austria
 DESCRIPTION:An off-site summer piano intensive for students\, open by invitation — full details are shared directly with participating families. Feel free to contact us to join the waiting list.\n\nhttps://elenypiano.studio/events/2027-07-vienna-piano-summer-school/

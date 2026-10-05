@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:c029456de6ef9268a2d5810696588d6c@elenypiano.studio
-DTSTAMP:20261005T195841Z
-LAST-MODIFIED:20261005T195441Z
-SEQUENCE:1791230081
+DTSTAMP:20261005T200144Z
+LAST-MODIFIED:20261005T200144Z
+SEQUENCE:1791230504
 DTSTART;VALUE=DATE:20270705
-DTEND;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270711
 SUMMARY:Vasaros fortepijono kelionė į Vieną – muzikinė\, edukacinė ir kultūrinė patirtis
 LOCATION:Viena\, Austrija
 DESCRIPTION:Išvykstamoji vasaros fortepijono stovykla mokiniams ir kviestiniams dalyviams. Visa išsami informacija perduodama tiesiogiai dalyvaujančioms šeimoms. Norėdami patekti į laukiančiųjų sąrašą\, susisiekite su mumis.\n\nhttps://elenypiano.studio/lt/events/2027-07-vienna-piano-summer-school/
